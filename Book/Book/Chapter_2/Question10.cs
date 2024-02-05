@@ -4,22 +4,10 @@ using static System.Console;
 namespace Chapter_2 {
     class Question10 {
         public static void Solution() {
-            BackgroundColor = ConsoleColor.White;
-            ForegroundColor = ConsoleColor.Black;
-
-            WriteLine(" BBBBBBBBBBBB              AA            JJJJJJJJJJJJJJJJJJ");
-            WriteLine("BBB         BBB           AAAA           JJJJJJJJJJJJJJJJJJ");
-            WriteLine("BB           BBB         AA  AA                  JJ        ");
-            WriteLine("BB          BBBB        AA    AA                 JJ        ");
-            WriteLine("BB         BBB         AA      AA                JJ        ");
-            WriteLine("BBBBBBBBBBBB          AAAAAAAAAAAA               JJ        ");
-            WriteLine("BB         BBB       AA          AA             JJ         ");
-            WriteLine("BB          BBBB    AA            AA           JJ          ");
-            WriteLine("BB           BBB   AA              AA         JJ           ");
-            WriteLine("BBB         BBB   AA                AA    JJJJJ            ");
-            WriteLine(" BBBBBBBBBBBBB   AA                  AA  JJJJJ             ");
-            
-
+            Write("Input price per 100 grams $");
+            double p100g = double.Parse(ReadLine());
+            double p1p = p100g / (100 * 0.00220462);
+            WriteLine("Price per 1 pound: {0:C2}", p1p);
         }
     }
 }
