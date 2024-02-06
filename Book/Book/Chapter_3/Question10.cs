@@ -6,6 +6,7 @@ namespace Chapter_3 {
         const double MillagePerK = 10.03;
         const double Exemption = 25000;
         const double IncreaseRate = .027;
+        
 
         public static void Solution() {
             Input(out double propertyPrice);
