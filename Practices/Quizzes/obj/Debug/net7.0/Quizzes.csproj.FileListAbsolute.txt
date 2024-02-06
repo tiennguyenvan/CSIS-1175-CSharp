@@ -1,0 +1,15 @@
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/bin/Debug/net7.0/Quizzes
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/bin/Debug/net7.0/Quizzes.deps.json
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/bin/Debug/net7.0/Quizzes.runtimeconfig.json
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/bin/Debug/net7.0/Quizzes.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/bin/Debug/net7.0/Quizzes.pdb
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/obj/Debug/net7.0/Quizzes.csproj.AssemblyReference.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/obj/Debug/net7.0/Quizzes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/obj/Debug/net7.0/Quizzes.AssemblyInfoInputs.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/obj/Debug/net7.0/Quizzes.AssemblyInfo.cs
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/obj/Debug/net7.0/Quizzes.csproj.CoreCompileInputs.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/obj/Debug/net7.0/Quizzes.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/obj/Debug/net7.0/refint/Quizzes.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/obj/Debug/net7.0/Quizzes.pdb
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/obj/Debug/net7.0/Quizzes.genruntimeconfig.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/obj/Debug/net7.0/ref/Quizzes.dll
