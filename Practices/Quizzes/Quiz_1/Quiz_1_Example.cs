@@ -1,4 +1,16 @@
 ﻿using static System.Console;
+/*
+ Assume that a gallon of paint covers about 350 square feet of wall space. Create a class named PaintCalculator (with main) that asks the user for the length and width of a rectangular room. Create a method named CalculateArea() that calculates the wall area for a room. Pass the values of length and width to a method named CalculateArea which should calculate the area for the room and return the area.
+Area = length * width.
+ 
+Create another method named CalculateNumGallons() that accepts the calculated wall area and returns the number of gallons of paint needed. Number of gallons = area / square feet covered by a gallon of paint.
+ 
+Create another method named CalculatePrice() that calculates the price based on a paint price of $32 per gallon, assuming that the painter can buy any fraction of a gallon of paint at the same price.
+ 
+The output should be formatted and displayed with appropriate messages. The price should be formatted in currency format.
+ */
+
+
 namespace Quizzes.Quiz_1
 {
     class PaintCalculator
