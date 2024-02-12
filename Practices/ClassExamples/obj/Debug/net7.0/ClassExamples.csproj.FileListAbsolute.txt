@@ -1,0 +1,15 @@
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/bin/Debug/net7.0/ClassExamples
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/bin/Debug/net7.0/ClassExamples.deps.json
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/bin/Debug/net7.0/ClassExamples.runtimeconfig.json
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/bin/Debug/net7.0/ClassExamples.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/bin/Debug/net7.0/ClassExamples.pdb
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/obj/Debug/net7.0/ClassExamples.csproj.AssemblyReference.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/obj/Debug/net7.0/ClassExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/obj/Debug/net7.0/ClassExamples.AssemblyInfoInputs.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/obj/Debug/net7.0/ClassExamples.AssemblyInfo.cs
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/obj/Debug/net7.0/ClassExamples.csproj.CoreCompileInputs.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/obj/Debug/net7.0/ClassExamples.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/obj/Debug/net7.0/refint/ClassExamples.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/obj/Debug/net7.0/ClassExamples.pdb
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/obj/Debug/net7.0/ClassExamples.genruntimeconfig.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/ClassExamples/obj/Debug/net7.0/ref/ClassExamples.dll

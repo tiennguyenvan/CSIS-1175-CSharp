@@ -1,4 +1,45 @@
-﻿<Properties StartupConfiguration="{24F42B12-6056-44FB-94F2-1C27B1652598}|Default">
+﻿<Properties StartupConfiguration="{C720FFA3-2FF5-4156-A1A1-0919C89AFB61}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Weeks FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Slides FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Weeks/Program.cs">
+    <Files>
+      <File FileName="Book/Chapter_1/Question_1.cs" Line="11" Column="2" />
+      <File FileName="Book/Chapter_1/Question_2.cs" Line="1" Column="1" />
+      <File FileName="Book/Chapter_1/Question10.cs" Line="1" Column="1" />
+      <File FileName="Book/Program.cs" Line="9" Column="33" />
+      <File FileName="Book/Chapter_3/Question_1.cs" Line="28" Column="1" />
+      <File FileName="Quizzes/Program.cs" Line="12" Column="2" />
+      <File FileName="Quizzes/Quiz_1/Quiz_1_Example.cs" Line="13" Column="35" />
+      <File FileName="Slides/Program.cs" Line="1" Column="1" />
+      <File FileName="Quizzes/Quiz_1/Quiz1_Official.cs" Line="33" Column="18" />
+      <File FileName="Weeks/Program.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practices" expanded="True">
+            <Node name="Weeks">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Practices" expanded="True" selected="True">
+            <Node name="Book" expanded="True" />
+            <Node name="Quizzes" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Quizzes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Book PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book", "Book\Book.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quizzes", "Quizzes\Quizzes.csproj", "{C720FFA3-2FF5-4156-A1A1-0919C89AFB61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slides", "Slides\Slides.csproj", "{FA98F499-8308-4CD2-98B1-AEAA2A86E122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weeks", "Weeks\Weeks.csproj", "{FBEF2B06-3618-453B-BE19-3C8D45E3F41C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{C720FFA3-2FF5-4156-A1A1-0919C89AFB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C720FFA3-2FF5-4156-A1A1-0919C89AFB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C720FFA3-2FF5-4156-A1A1-0919C89AFB61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA98F499-8308-4CD2-98B1-AEAA2A86E122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA98F499-8308-4CD2-98B1-AEAA2A86E122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA98F499-8308-4CD2-98B1-AEAA2A86E122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA98F499-8308-4CD2-98B1-AEAA2A86E122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEF2B06-3618-453B-BE19-3C8D45E3F41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEF2B06-3618-453B-BE19-3C8D45E3F41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEF2B06-3618-453B-BE19-3C8D45E3F41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEF2B06-3618-453B-BE19-3C8D45E3F41C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sneeit/Public/CSIS-1175-CSharp/Book/Quizzes/Quizzes.csproj": {}
+    "/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/Quizzes.csproj": {}
   },
   "projects": {
-    "/Users/sneeit/Public/CSIS-1175-CSharp/Book/Quizzes/Quizzes.csproj": {
+    "/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/Quizzes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sneeit/Public/CSIS-1175-CSharp/Book/Quizzes/Quizzes.csproj",
+        "projectUniqueName": "/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/Quizzes.csproj",
         "projectName": "Quizzes",
-        "projectPath": "/Users/sneeit/Public/CSIS-1175-CSharp/Book/Quizzes/Quizzes.csproj",
+        "projectPath": "/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/Quizzes.csproj",
         "packagesPath": "/Users/sneeit/.nuget/packages/",
-        "outputPath": "/Users/sneeit/Public/CSIS-1175-CSharp/Book/Quizzes/obj/",
+        "outputPath": "/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sneeit/.nuget/NuGet/NuGet.Config"

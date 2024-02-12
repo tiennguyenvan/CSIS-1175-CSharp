@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rrpbaFhXINcpeGBkPbI1Bvx1RZiL6ZhBo0PshSFuwinHJZ1Q/bbgDvkwrd/ymwmVSax9rVuy5SNazxS6BIxrlA==",
+  "dgSpecHash": "2TXdgbjqeWhzLn3I15QtSLenE3xus52R5HuKRNvvJ6IPJ+vdVhFy5sNYho+faaG9AqziH2RaqZTvtuS1yv2NqA==",
   "success": true,
-  "projectFilePath": "/Users/sneeit/Public/CSIS-1175-CSharp/Book/Quizzes/Quizzes.csproj",
+  "projectFilePath": "/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Quizzes/Quizzes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
