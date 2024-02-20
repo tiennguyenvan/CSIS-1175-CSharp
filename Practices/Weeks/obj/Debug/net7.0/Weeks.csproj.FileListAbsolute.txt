@@ -1,0 +1,15 @@
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/bin/Debug/net7.0/Weeks
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/bin/Debug/net7.0/Weeks.deps.json
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/bin/Debug/net7.0/Weeks.runtimeconfig.json
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/bin/Debug/net7.0/Weeks.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/bin/Debug/net7.0/Weeks.pdb
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/obj/Debug/net7.0/Weeks.csproj.AssemblyReference.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/obj/Debug/net7.0/Weeks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/obj/Debug/net7.0/Weeks.AssemblyInfoInputs.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/obj/Debug/net7.0/Weeks.AssemblyInfo.cs
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/obj/Debug/net7.0/Weeks.csproj.CoreCompileInputs.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/obj/Debug/net7.0/Weeks.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/obj/Debug/net7.0/refint/Weeks.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/obj/Debug/net7.0/Weeks.pdb
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/obj/Debug/net7.0/Weeks.genruntimeconfig.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Weeks/obj/Debug/net7.0/ref/Weeks.dll
