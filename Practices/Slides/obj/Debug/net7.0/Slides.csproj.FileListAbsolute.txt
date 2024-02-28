@@ -1,0 +1,15 @@
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/bin/Debug/net7.0/Slides
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/bin/Debug/net7.0/Slides.deps.json
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/bin/Debug/net7.0/Slides.runtimeconfig.json
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/bin/Debug/net7.0/Slides.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/bin/Debug/net7.0/Slides.pdb
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/obj/Debug/net7.0/Slides.csproj.AssemblyReference.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/obj/Debug/net7.0/Slides.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/obj/Debug/net7.0/Slides.AssemblyInfoInputs.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/obj/Debug/net7.0/Slides.AssemblyInfo.cs
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/obj/Debug/net7.0/Slides.csproj.CoreCompileInputs.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/obj/Debug/net7.0/Slides.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/obj/Debug/net7.0/refint/Slides.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/obj/Debug/net7.0/Slides.pdb
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/obj/Debug/net7.0/Slides.genruntimeconfig.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Slides/obj/Debug/net7.0/ref/Slides.dll

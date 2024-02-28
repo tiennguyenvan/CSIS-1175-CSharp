@@ -6,12 +6,23 @@ namespace Program {
 
 
             // Uncomment to Test
+            //Book.Chapter_5.Question_1.Solution();
+            //Book.Chapter_5.Question_2.Solution();
+            //Book.Chapter_5.Question_3.Solution();
+            //Book.Chapter_5.Question_4.Solution();
+            //Book.Chapter_5.Question_5.Solution();
+            //Book.Chapter_5.Question_6.Solution();
+            //Book.Chapter_5.Question_7.Solution();
+            //Book.Chapter_5.Question_8.Solution();
+            //Book.Chapter_5.Question_9.Solution();
+            Book.Chapter_5.Question10.Solution();
+
             //Book.Chapter_4.Question_1.Solution();
             //Book.Chapter_4.Question_2.Solution();
             //Book.Chapter_4.Question_3.Solution();
             //Book.Chapter_4.Question_4.Solution();
             //Book.Chapter_4.Question_5.Solution();
-            Book.Chapter_4.Question_6.Solution();
+            //Book.Chapter_4.Question_6.Solution();
             //Book.Chapter_4.Question_7.Solution();
             //Book.Chapter_4.Question_8.Solution();
             //Book.Chapter_4.Question_9.Solution();
