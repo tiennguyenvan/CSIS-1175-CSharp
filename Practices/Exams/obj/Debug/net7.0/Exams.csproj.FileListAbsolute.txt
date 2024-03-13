@@ -1,0 +1,15 @@
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/bin/Debug/net7.0/Exams
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/bin/Debug/net7.0/Exams.deps.json
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/bin/Debug/net7.0/Exams.runtimeconfig.json
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/bin/Debug/net7.0/Exams.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/bin/Debug/net7.0/Exams.pdb
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/obj/Debug/net7.0/Exams.csproj.AssemblyReference.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/obj/Debug/net7.0/Exams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/obj/Debug/net7.0/Exams.AssemblyInfoInputs.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/obj/Debug/net7.0/Exams.AssemblyInfo.cs
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/obj/Debug/net7.0/Exams.csproj.CoreCompileInputs.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/obj/Debug/net7.0/Exams.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/obj/Debug/net7.0/refint/Exams.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/obj/Debug/net7.0/Exams.pdb
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/obj/Debug/net7.0/Exams.genruntimeconfig.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Exams/obj/Debug/net7.0/ref/Exams.dll
