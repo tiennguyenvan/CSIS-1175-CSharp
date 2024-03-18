@@ -13,6 +13,7 @@
     <None Remove="Chapter_4\" />
     <None Remove="Chapter_5\" />
     <None Remove="Chapter_6\" />
+    <None Remove="Chapter_7\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Chapter_2\" />
@@ -20,5 +21,6 @@
     <Folder Include="Chapter_4\" />
     <Folder Include="Chapter_5\" />
     <Folder Include="Chapter_6\" />
+    <Folder Include="Chapter_7\" />
   </ItemGroup>
 </Project>

@@ -6,6 +6,17 @@ namespace Program {
 
 
             // Uncomment to Test
+            //Book.Chapter_7.Question_1.Solution();
+            //Book.Chapter_7.Question_2.Solution();
+            //Book.Chapter_7.Question_3.Solution();
+            //Book.Chapter_7.Question_4.Solution();
+            //Book.Chapter_7.Question_5.Solution();
+            //Book.Chapter_7.Question_6.Solution();
+            //Book.Chapter_7.Question_7.Solution();
+            //Book.Chapter_7.Question_8.Solution();
+            //Book.Chapter_7.Question_9.Solution();
+            Book.Chapter_7.Question10.Solution();
+
             //Book.Chapter_6.Question_1.Solution();
             //Book.Chapter_6.Question_2.Solution();
             //Book.Chapter_6.Question_3.Solution();
@@ -15,7 +26,7 @@ namespace Program {
             //Book.Chapter_6.Question_7.Solution();
             //Book.Chapter_6.Question_8.Solution();
             //Book.Chapter_6.Question_9.Solution();
-            Book.Chapter_6.Question10.Solution();
+            //Book.Chapter_6.Question10.Solution();
 
             //Book.Chapter_5.Question_1.Solution();
             //Book.Chapter_5.Question_2.Solution();
