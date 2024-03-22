@@ -1,0 +1,15 @@
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/bin/Debug/net7.0/Other
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/bin/Debug/net7.0/Other.deps.json
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/bin/Debug/net7.0/Other.runtimeconfig.json
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/bin/Debug/net7.0/Other.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/bin/Debug/net7.0/Other.pdb
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/obj/Debug/net7.0/Other.csproj.AssemblyReference.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/obj/Debug/net7.0/Other.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/obj/Debug/net7.0/Other.AssemblyInfoInputs.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/obj/Debug/net7.0/Other.AssemblyInfo.cs
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/obj/Debug/net7.0/Other.csproj.CoreCompileInputs.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/obj/Debug/net7.0/Other.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/obj/Debug/net7.0/refint/Other.dll
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/obj/Debug/net7.0/Other.pdb
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/obj/Debug/net7.0/Other.genruntimeconfig.cache
+/Users/sneeit/Public/CSIS-1175-CSharp/Practices/Other/obj/Debug/net7.0/ref/Other.dll

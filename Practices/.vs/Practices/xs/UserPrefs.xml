@@ -1,39 +1,56 @@
-﻿<Properties StartupConfiguration="{24F42B12-6056-44FB-94F2-1C27B1652598}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.Exams PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{68E3C590-214C-4A06-B5A7-96AB8BF9E7DC}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Quizzes PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Exams/MidTerm/Question 1/PurchaseApp.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Other/OsCache.cs">
     <Files>
-      <File FileName="Book/Chapter_5/Question_7.cs" />
-      <File FileName="Book/Chapter_5/Question_8.cs" />
-      <File FileName="Book/Chapter_5/Question_9.cs" />
-      <File FileName="Quizzes/Program.cs" Line="12" Column="2" />
-      <File FileName="Book/Chapter_5/Question10.cs" />
-      <File FileName="Book/Program.cs" Line="14" Column="23" />
-      <File FileName="Exams/Program.cs" Line="9" Column="60" />
-      <File FileName="Exams/MidTerm/Question 1/EmptyClass.cs" Line="100" Column="15" />
-      <File FileName="Slides/Program.cs" Line="4" Column="1" />
-      <File FileName="Weeks/Program.cs" Line="25" Column="10" />
+      <File FileName="Book/Chapter_6/Question_1.cs" Line="17" Column="21" />
+      <File FileName="Book/Program.cs" Line="18" Column="41" />
+      <File FileName="Book/Chapter_6/Question_2.cs" Line="22" Column="10" />
+      <File FileName="Book/Chapter_6/Question_3.cs" Line="22" Column="30" />
+      <File FileName="Book/Chapter_6/Question_4.cs" Line="16" Column="13" />
+      <File FileName="Book/Chapter_6/Question_5.cs" Line="19" Column="28" />
+      <File FileName="Book/Chapter_6/Question_6.cs" Line="25" Column="18" />
+      <File FileName="Book/Chapter_6/Question_7.cs" Line="35" Column="2" />
+      <File FileName="Book/Chapter_6/Question_8.cs" Line="29" Column="29" />
+      <File FileName="Book/Chapter_6/Question_9.cs" Line="19" Column="32" />
+      <File FileName="Book/Chapter_6/Question10.cs" Line="11" Column="25" />
+      <File FileName="Book/Chapter_7/Question_2.cs" Line="20" Column="26" />
+      <File FileName="Book/Chapter_7/Question_3.cs" Line="13" Column="60" />
+      <File FileName="Book/Chapter_7/Question_4.cs" Line="52" Column="43" />
+      <File FileName="Book/Chapter_7/Question_5.cs" Line="23" Column="25" />
+      <File FileName="Book/Chapter_7/Question_6.cs" Line="93" Column="1" />
+      <File FileName="Book/Chapter_7/Question_7.cs" Line="63" Column="1" />
+      <File FileName="Book/Chapter_7/Question_8.cs" Line="20" Column="15" />
+      <File FileName="Book/Chapter_7/Question_9.cs" Line="43" Column="39" />
+      <File FileName="Book/Chapter_7/Question10.cs" Line="23" Column="18" />
+      <File FileName="Other/Program.cs" Line="11" Column="30" />
+      <File FileName="Other/ArrayClass.cs" Line="49" Column="40" />
+      <File FileName="Other/EmptyClass.cs" Line="32" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Practices" expanded="True">
-            <Node name="Exams">
-              <Node name="MidTerm">
-                <Node name="Question 1" expanded="True">
-                  <Node name="PurchaseApp.cs" selected="True" />
-                </Node>
-              </Node>
+            <Node name="Book">
+              <Node name="Chapter_7" expanded="True" />
+            </Node>
+            <Node name="Other">
+              <Node name="OsCache.cs" selected="True" />
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Practices" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Book PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Weeks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Other PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
